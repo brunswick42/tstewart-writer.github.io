@@ -1,0 +1,7 @@
+# Getting started with LibreOffice Docs - Validating LibreOffice XHP Help Files in Emacs
+
+**September 14, 2020**
+
+I recently joined the LibreOffice documentation team. After looking at the documention, I decided that I wanted to work on the [online help](https://help.libreoffice.org/). It my first stop whenever I need help because I can find quick answers to solve a specific problem. But another factor was the [big list of undocumented features](https://bugs.documentfoundation.org/showdependencytree.cgi?id=80430&hide_resolved=1). There aren't that many people working on the help documents, so I think I can make a real contribution there.
+
+LibreOffice uses XHP files to create online help pages. It is an XML format that originally defined pages for the in-application help system. When they moved to online help they kept the format and developed methods to render pages as HTML. This lets them use the existing help pages, but complicates the life of new writers. You need to know the format before you can write online help content.

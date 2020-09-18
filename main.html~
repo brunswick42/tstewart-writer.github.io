@@ -1,0 +1,6 @@
+{% block footer %}
+<hr>
+<p>
+<small>Built with <a href="http://www.mkdocs.org/">MkDocs</a>.</small>
+</p>
+{% endblock %}
